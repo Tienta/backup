@@ -1,0 +1,52 @@
+P {
+    color: red;
+}
+div {
+    color: #333333;
+    text-decoration: underline;
+    background-color: greenyellow;
+    font-size: 26px;
+    font-family: "Comic Sans MS";
+    font-weight: lighter;
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+.red_css {
+    color: red;
+    display: inline-block;
+}
+
+.blue_css{
+    color: dodgerblue;
+}
+
+.yellow_background{
+    background-color: greenyellow;
+}
+
+.title:hover{
+    text-decoration: underline;
+}
+a{
+    color: greenyellow;
+    font-size: 20px;
+    text-decoration: none;
+    transition: 0.5s all;
+}
+a:active,
+a:hover{
+    font-size: 200%;
+    color: palevioletred;
+}
+h1{
+    display: inline-block;
+    width: 500px;
+    height: 10px;
+    color: grey;
+    padding: 100px;
+    background: cadetblue;
+    background-size: cover;
+    margin-left: 50px;
+    border: medium;
+}
