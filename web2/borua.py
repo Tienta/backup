@@ -79,7 +79,6 @@ def addtree():
         new_tree.src = request.form["source"]
         new_tree.title = request.form["title"]
         new_tree.description = request.form["description"]
-        if
         new_tree.save()
         return render_template('addtree.html')
 

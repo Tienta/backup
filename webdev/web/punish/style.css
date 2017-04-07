@@ -1,0 +1,45 @@
+/*.background1{*/
+    /*background: url("../background1.png");*/
+/*}*/
+/*.wrapper{*/
+    /*width: 600px;*/
+    /*background: #eee;*/
+    /*margin: 0 auto 0 auto;*/
+/*}*/
+
+/*.heading{*/
+    /*height: 100px;*/
+    /*background: greenyellow;*/
+    /*padding: 50px ;*/
+    /*text-align: center;*/
+/*}*/
+
+/*.navigation{*/
+    /*height: 40px;*/
+    /*background: lightcoral;*/
+    /*text-align: center;*/
+    /*color: black;*/
+    /*padding: 10px;*/
+/*}*/
+/*.sidebar{*/
+    /*min-height: 400px;*/
+    /*width: 400px;*/
+    /*background-color: lightgray;*/
+    /*float: left;*/
+    /*text-align: center;*/
+/*}*/
+
+/*.content{*/
+    /*min-height: 400px;*/
+    /*float: right;*/
+    /*background-color: aquamarine;*/
+    /*text-align: center;*/
+    /*width: 200px;*/
+/*}*/
+
+/*.footer{*/
+    /*clear: both;*/
+    /*background-color: black;*/
+    /*text-align: center;*/
+    /*color: aliceblue;*/
+/*}*/

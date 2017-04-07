@@ -1,0 +1,150 @@
+.bigbox1{
+    width: 300px ;
+    height: 300px;
+    margin-top: 70px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.bigbox2{
+    width: 400px ;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.bigbox3{
+    width: 300px ;
+    height: 300px;
+    margin-top: 70px ;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.box1{
+    width: 300px ;
+    height: 300px;
+    margin-top: 70px ;
+    /*margin-bottom: 502px;*/
+}
+
+.box2{
+    width: 260px;
+    height: 150px;
+    margin: auto;
+    margin-top: 15px;
+    padding: 5px 20px;
+    text-align: center;
+}
+
+.box3{
+    width: 260px;
+    height: 150px;
+    margin: auto;
+    padding: 10px 25px;
+    text-align: justify;
+}
+.smallbox1{
+    margin-left: 100px;
+    margin-right: 100px;
+    border-bottom-color: white;
+    background-color:#EC7D5C;
+    width: 150px;
+    height: 100px;
+    margin-top: 50px;
+}
+.row1{
+    /*padding: auto;*/
+    /*margin: auto;*/
+    align-self: center;
+}
+
+body{
+    background-image: url("background1.png")
+}
+
+.font1{
+    font-family: "Old English Text MT";
+    font-size: 1.875em; /* 30px/16=1.875em */
+    text-align: center;
+}
+
+.circle {
+    padding-bottom: 10%;
+    margin-bottom: 20px;
+}
+
+.testbigbox1{
+    width: 300px ;
+    height: 300px;
+    margin: 25px 25px auto auto ;
+    padding: auto;
+}
+.testbigbox3{
+    width: 300px ;
+    height: 300px;
+    margin: 25px auto auto 25px ;
+    padding: auto;
+}
+.testbigbox2{
+    width: 350px ;
+    height: 350px;
+    margin: auto;
+}
+
+.w3-container .w3-row-padding{
+    display: block;
+}
+
+.test{
+    height: auto;
+    width: 1200px;
+    margin: auto;
+    padding-top: 70px;
+
+}
+
+.col1{
+    height: 350px;
+    width: 400px;
+}
+
+.divbutton{
+    width: 1200px;
+    height: 200px;
+    margin: auto;
+}
+
+.divother{
+    width:1200px;
+    height: 200px;
+    margin:auto;
+}
+
+.button1{
+    width: 200px;
+    height: 100px;
+    padding: auto;
+    margin: 100px auto auto auto;
+    align-self: center;
+}
+
+.buttonabout{
+    width: 70px;
+    height: 70px;
+    float: left;
+    margin: 70px auto auto auto;
+    /*padding: auto;*/
+    /*text-align: center;*/
+
+}
+
+.buttonrule{
+    width: 70px;
+    height: 70px;
+    float: right;
+    margin: 70px auto auto auto;
+    /*padding: 20px 20px 20px 20px;*/
+}
